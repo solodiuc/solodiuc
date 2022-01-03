@@ -1,5 +1,12 @@
 # Hi, i’m Alexandr 👋
 
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=solodiuc&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=solodiuc&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/solodiuc/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=solodiuc&layout=compact"/></a>
+</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/solodiuc/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
