@@ -4,14 +4,15 @@
   <a href="https://www.linkedin.com/in/solodiuc/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-</p>
-
-<p align="center">
   <a href="https://t.me/sasha_svetlyj">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
 </p>
-<
+
+<p align='center'>
+   📫 How to reach me: <a href='mailto:alex.solodiuc@gmail.com'>alex.solodiuc@gmail.com</a>
+</p>
+
 
 
 
