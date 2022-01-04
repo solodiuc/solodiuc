@@ -21,7 +21,11 @@
 </p>
 
 
-
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/solodiuc/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=solodiuc&color=DE002D">
+   </a>
+</div>
 
 
 
